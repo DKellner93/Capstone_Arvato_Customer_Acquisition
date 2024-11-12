@@ -1,10 +1,10 @@
 # Capstone_Arvato_Customer_Acquisition
 
-##Installation
+## Installation
 
 There should be no necessary libraries since all necessary packages are included at the beginning of the notebook.
 
-##Motivation
+## Motivation
 
 In today’s data-driven world, businesses are leveraging advanced programming techniques to gain a deeper understanding of their customers and optimize their acquisition strategies.
 In the capstone project of Udacity’s Data Scientist Nanodegree demographic data is used to gain insigits about the customer base and determine whether a person is more likely to become a customer of a mail-order company or not.
@@ -13,7 +13,7 @@ In the first part of the project the focus was laid on finding differences betwe
 
 In the second Part a Machine Learning Algorithm is used to predict potential new customers.
 
-##Results
+## Results
 
 As in most Data Science tasks the main part of the task at hand was the data preprocessing in order to analyze the data properly. In order to retain a clean and scaled dataset a lot of assumptions had to be made. 
 The following cleaning steps had to be performed to the datasets:
@@ -30,7 +30,7 @@ With the provided demographics data the characteristics of the customer base cou
 
 Finally we analyzed the performance of different Machine Learning models, to predict which individuals from a marketing campaign would most likely convert into customers.
 
-##Addtional information
+## Addtional information
 
 If you want to further dive into the topic the findings are presented in this blogpost:
 https://medium.com/@dennis.kellner93/optimizing-customer-acquisition-with-machine-learning-7f134849bcfd
